@@ -1,0 +1,13 @@
+nodu_modules
+deployments
+artifacts
+cache
+coverage*
+coverage.json
+gasReporterOutput.json
+.next
+.env
+.*
+package.json
+img
+README.md
